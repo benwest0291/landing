@@ -1,0 +1,33 @@
+.banner{
+  padding: 150px 0;
+  color: #e1ebe3;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  font-size: 60px;
+  padding-left: 30px;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, .8);
+}
+
+.banner p {
+  font-size: 22px;
+  padding-left: 30px;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, .8);
+  margin-bottom: 40px;
+}
+.btn{
+  margin-left: 30px;
+  background: #cc1234;
+  padding: 15px 34px;
+  text-decoration: none;
+  color:#e1ebe3 ;
+  border-radius: 10px;
+  box-shadow: 10px 10px 30px rgb(0 0 0 / 10%);
+}
+
+.btn:hover {
+  background-color: #ff385c;
+  transition: 0.4s;
+}
